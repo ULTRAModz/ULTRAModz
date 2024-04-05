@@ -6,7 +6,7 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=ULTRAModz&description=Hi,%20Welcome%20To%20%F0%9F%92%96ULTRAModz%F0%9F%92%96%20Profile%20%E2%9D%A4%EF%B8%8F&image=https://telegra.ph/file/794aadd8fb881664485ba.jpg&backgroundColor=%23ecf0f1&github=ULTRAModz&twitter=&pattern=leaf&colorPattern=%23eaeaea)
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=490076&random=false&width=435&lines=%E1%B4%9C%CA%9F%E1%B4%9B%CA%80%E1%B4%80+%E1%B4%8D%E1%B4%8F%E1%B4%85%E1%B4%A2+%E1%B4%BC%E1%B6%A0%E1%B6%A0%E2%81%B1%E1%B6%9C%E2%81%B1%E1%B5%83%CB%A1+%E2%9C%98)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=490076&random=false&width=435&lines=%E1%B4%9C%CA%9F%E1%B4%9B%CA%80%E1%B4%80+%E1%B4%8D%E1%B4%8F%E1%B4%85%E1%B4%A2+%E1%B4%BC%E1%B6%A0%E1%B6%A0%E2%81%B1%E1%B6%9C%E2%81%B1%E1%B5%83%CB%A1+%E2%9C%98)](https://git.io/typing-svg)
  
 </p>
 
