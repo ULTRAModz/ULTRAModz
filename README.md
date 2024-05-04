@@ -1,4 +1,4 @@
-<!-- 😹 Hu Copis Dont Copy Bitch, Go Copy You Mom Bitch -->
+<!-- 😹 Hu dont copy Mother Fucker copy you mom fucking smelly ass -->
 <div align="center">
 
 ## ᴜʟᴛʀᴀ ᴍᴏᴅᴢ ✘
@@ -10,18 +10,46 @@
  
 </p>
 
-### ᴍʏ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴘʀᴏᴊᴇᴄᴛꜱ
+</div>
+
+---
+
+<p align="center"> 
+  <a href="https://github.com/ULTRAModz?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ULTRAModz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ULTRAModz?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ULTRAModz?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/ULTRAModz/QueenEnza">
+  </br></br>
+    <img src="https://komarev.com/ghpvc/?username=ULTRAModz&label=Profile%20views&color=blueviolet&label=Profile+Views&style=plastic">
+  </a>
+</p>
+
+<br/>
+
+
+---
+### 🔭 My currently working on projects,
+
 <p align="left">
   <a href="https://github.com/ULTRAModz/QueenEnza"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ULTRAModz&repo=QueenEnza&theme=highcontrast&bg_color=090A0DFF&title_color=CEFF00&icon_color=F8D866&hide_border=false&show_icons=true" alt="QueenEnza"></a>
-  
-  ---
-### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
+
+</p>
+
+  <p align="left">
+    <a href="https://github.com/ULTRAModz?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
+</details>
+
+#### 🌱 I’m currently learning **Node.js, HTML, CSS**
+
+---
+### Languages and Tools:
+
 <p>
   <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs"></code>
   <code><img width="40px" src="https://img.icons8.com/fluency/48/000000/node-js.png" title="JS"></code>
   <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql"></code>
-<!---  <code><img width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"></code> --->
- <!--- <code><img width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" title="Java"></code> --->
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/linux--v1.png" title="Linux"></code>
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/docker.png" title="docker"></code>
  <!--- <code><img width="40px" src="https://img.icons8.com/color/48/000000/kali-linux.png" title="Kali Linux"></code> --->
@@ -32,26 +60,37 @@
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/git.png" title="Bash"></code>
   <code><img width="40px" src="https://img.icons8.com/color/48/000000/heroku.png" title="heroku"></code>
 </p>
-  
----
-  
+
+
+<!--- 
  </p>
 <h2 align="center"> ꜱᴘᴏᴛɪꜰʏ</h2>
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+--->
 
 ---
+
+<div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ULTRAModz&show_icons=true&layout=compact&theme=highcontrast" alt="ULTRAModz" /></p>
 </details>
   
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ULTRAModz&show_icons=true&theme=highcontrast" alt="ULTRA Modz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ULTRAModz&theme=highcontrast" alt="ULTRA Modz" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=ULTRAModz&theme=highcontrast" alt="ULTRA Modz" /></p>
 </details>
 
----
+</div>
 
+---
+<h3 align="left">Contact Me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/tharuka_ultramodz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ULTRAModz" height="30" width="40" /></a>
+<a href="https://wa.me/94701664226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="ULTRAModz" height="30" width="40" /></a>
+</p>
+
+---
 <details>
 <summary>&#127942 <b>ɢɪᴛʜᴜʙ ᴀᴡᴀʀᴅꜱ</b></summary><br/>
 
@@ -66,3 +105,12 @@
 
 
 </details>
+
+---
+
+### Thanks for watching my profile 😉💖
+
+---
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
