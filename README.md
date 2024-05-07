@@ -1,4 +1,4 @@
-<!-- 😹 Hu dont copy Mother Fucker copy you mom fucking smelly ass -->
+<!-- 😹 Hu dont copy Mother Fucker fuck you mom fucking smelly ass -->
 <div align="center">
 
 ## ᴜʟᴛʀᴀ ᴍᴏᴅᴢ ✘
@@ -87,7 +87,7 @@
 <h3 align="left">Contact Me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/tharuka_ultramodz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ULTRAModz" height="30" width="40" /></a>
-<a href="https://wa.me/94701664226" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="ULTRAModz" height="30" width="40" /></a>
+<a href="https://t.me/ULTRAModz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="ULTRAModz" height="30" width="40" /></a>
 </p>
 
 ---
